@@ -1,11 +1,11 @@
 # Greenthumb
-# Frontend in react.js of the contacts system: AGENDA
+# Frontend in HTML and Sass for system for those who like to buy plants
 
 ### Steps to run the application
 
 ##### `yarn install` To install all Node.js packages that are needed
 ##### `yarn start` To start project
-##### The project will automatically open in your browser, but if it doesn't, copy and paste into your browser `http://localhost:3000`<br />
+##### The project will automatically open in your browser, but if it doesn't, copy and paste into your browser `http://localhost:1234`<br />
 
 ## Tech
 - [node.js] - Structure
@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
+
+##
 
 ![img](https://i.imgur.com/8HvCs50.png)
 ![img](https://i.imgur.com/QuGqs5r.png)
